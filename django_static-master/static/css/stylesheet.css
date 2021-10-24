@@ -1,0 +1,6 @@
+{% load static %}
+.custom {
+    color:#41459e;
+    background:#e8e8e8;
+    font-size:20px;
+}
